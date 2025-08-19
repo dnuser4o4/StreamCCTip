@@ -1,0 +1,16 @@
+{
+    "etherscan":{
+        "userData":{
+            "apiKey": "APIKEY",   
+            "address": "ADDRESS TO WATCH"
+        },
+        
+        "endpoint":{
+            "url": "https://api.etherscan.io/v2/api",
+            "chainIDs": {
+                "Ethereum": 1,
+                "Base": 8453
+            }  
+        }
+    }
+}
